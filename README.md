@@ -25,6 +25,21 @@ ICU Bed Finder: A Beautiful and Minimalistic iOS App
 - **Hospital Management**
   - Control and edit hospital information
   - Manage ICU bed availability
- 
 
 
+# Screenshots
+
+### Sign Up
+<img src="Screenshots/registrations.jpg" alt="Alt Text" width="300" height="500">
+
+### Log In
+<img src="Screenshots/login.jpg" alt="Alt Text" width="300" height="500">
+
+### List of the Hospitals
+<img src="Screenshots/list.jpg" alt="Alt Text" width="300" height="500">
+
+### Details of a hospital
+<img src="Screenshots/details.jpg" alt="Alt Text" width="300" height="500">
+
+### Add New Hospital
+<img src="Screenshots/add.jpg" alt="Alt Text" width="300" height="500">
